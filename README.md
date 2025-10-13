@@ -78,7 +78,3 @@ Update social media links in `src/components/Contact.js`
 - Google Fonts (Playfair Display, Inter)
 - Unsplash (placeholder images)
 
-## License
-
-© 2025 Paradise Saloon. All Rights Reserved.
-
