@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saloon/static/css/main.36690043.css",
+    "main.js": "/saloon/static/js/main.9fb3a246.js",
+    "index.html": "/saloon/index.html",
+    "main.36690043.css.map": "/saloon/static/css/main.36690043.css.map",
+    "main.9fb3a246.js.map": "/saloon/static/js/main.9fb3a246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36690043.css",
+    "static/js/main.9fb3a246.js"
+  ]
+}
